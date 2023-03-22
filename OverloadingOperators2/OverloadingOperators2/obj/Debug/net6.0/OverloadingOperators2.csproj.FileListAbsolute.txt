@@ -1,0 +1,15 @@
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\bin\Debug\net6.0\OverloadingOperators2.exe
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\bin\Debug\net6.0\OverloadingOperators2.deps.json
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\bin\Debug\net6.0\OverloadingOperators2.runtimeconfig.json
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\bin\Debug\net6.0\OverloadingOperators2.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\bin\Debug\net6.0\OverloadingOperators2.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\OverloadingOperators2.csproj.AssemblyReference.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\OverloadingOperators2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\OverloadingOperators2.AssemblyInfoInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\OverloadingOperators2.AssemblyInfo.cs
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\OverloadingOperators2.csproj.CoreCompileInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\OverloadingOperators2.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\refint\OverloadingOperators2.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\OverloadingOperators2.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\OverloadingOperators2.genruntimeconfig.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OverloadingOperators2\OverloadingOperators2\obj\Debug\net6.0\ref\OverloadingOperators2.dll
