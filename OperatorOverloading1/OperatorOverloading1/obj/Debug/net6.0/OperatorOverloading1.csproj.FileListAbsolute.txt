@@ -1,0 +1,15 @@
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\bin\Debug\net6.0\OperatorOverloading1.exe
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\bin\Debug\net6.0\OperatorOverloading1.deps.json
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\bin\Debug\net6.0\OperatorOverloading1.runtimeconfig.json
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\bin\Debug\net6.0\OperatorOverloading1.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\bin\Debug\net6.0\OperatorOverloading1.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\OperatorOverloading1.csproj.AssemblyReference.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\OperatorOverloading1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\OperatorOverloading1.AssemblyInfoInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\OperatorOverloading1.AssemblyInfo.cs
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\OperatorOverloading1.csproj.CoreCompileInputs.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\OperatorOverloading1.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\refint\OperatorOverloading1.dll
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\OperatorOverloading1.pdb
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\OperatorOverloading1.genruntimeconfig.cache
+C:\Users\simpy\OneDrive\Documents\GitHub\OperatorOverloading\OperatorOverloading1\OperatorOverloading1\obj\Debug\net6.0\ref\OperatorOverloading1.dll
